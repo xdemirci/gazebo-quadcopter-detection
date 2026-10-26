@@ -2,5 +2,6 @@
 *.parm
 *.raw
 *.tlog
+*.jpg
 terrain/
 logs/
